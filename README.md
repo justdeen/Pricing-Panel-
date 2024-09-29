@@ -1,6 +1,6 @@
 https://just-deen.github.io/Pricing-Panel-/ -hosted on github 
 
-# Pricing-Panel-
+# Overview 
 This project features a clean and responsive pricing panel built with HTML and CSS. It showcases three distinct pricing plans: Regular, Premium, and Executive. Each plan includes an image, key details such as duration and minimum amount, and a call-to-action button.
 
 ## Features
@@ -17,7 +17,7 @@ This project features a clean and responsive pricing panel built with HTML and C
 
 • Images: Each plan is visually represented with an image. The images are referenced from local files (e.g., money7.avif, money6.jpg).
 
-## To Use;
+## To Use
 Clone or download the repository.
 Open index.html in your web browser.
 Review the different investment plans and the associated details.
