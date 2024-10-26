@@ -1,3 +1,5 @@
+![Notes_241026_123534_b2f](https://github.com/user-attachments/assets/edca7b05-241a-409e-b082-21a030799f98)
+
 ## 💫 Overview 
 This project features a clean and responsive pricing panel built with HTML and CSS. It showcases three distinct pricing plans: Regular, Premium, and Executive. Each plan includes an image, key details such as duration and minimum amount, and a call-to-action button.
 
